@@ -1,0 +1,8 @@
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac 3.2277778 49.8416667 71.54 180
+OBJECT_SHARED Models/Airport/hangar2.ac 3.04315 49.87175 89.89 315
+OBJECT_SHARED Models/Airport/hangar2.ac 3.043157 49.872259 90.37 45
+OBJECT_SHARED Models/Commercial/small-modern-office.ac 3.041171 49.871529 88.04 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 3.04105 49.871517 87.95 350
+OBJECT_SHARED Models/Airport/EHLE_hangar_1.ac 3.040308 49.871629 87.62 89
+OBJECT_SHARED Models/Airport/hangar_15x25m.ac 3.042637 49.872148 89.93 316
+OBJECT_SHARED Models/Airport/Club_House.ac 3.041658 49.871629 88.63 90

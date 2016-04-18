@@ -1,0 +1,6 @@
+OBJECT_SHARED Models/Airport/ils.xml 8.798086 41.913733 0.02 333.99
+OBJECT_SHARED Models/Communications/vordme_1.xml 8.798086 41.913733 0.02 180
+OBJECT_SHARED Models/Airport/localizer.xml 8.807839 41.932564 1.91 113.81
+OBJECT_SHARED Models/Aircraft/EC145-Securite_Civile.ac 8.79335 41.91714 0.72 0
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.xml 8.802733 41.919226 -0.33 68.01
+OBJECT_SHARED Models/Maritime/Misc/phare.xml 8.78160735 41.88276834 8.24 0

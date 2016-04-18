@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Communications/radome-8m.xml 5.268345 44.1742371 1815.41 0
+OBJECT_SHARED Models/Military/RAFTower.xml 5.27894 44.1746 1890.1 0
+OBJECT_SHARED Models/Communications/base_clape_03.xml 5.27866 44.17377 1891.39 0
+OBJECT_STATIC TourVentoux.ac 5.27805954 44.17373738 1894.72 180

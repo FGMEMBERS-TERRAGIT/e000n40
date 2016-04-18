@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Airport/ils.xml 5.313108 45.364122 375.81 268.92
+OBJECT_SHARED Models/Communications/vordme_1.xml 5.313108 45.364122 375.81 180
+OBJECT_SHARED Models/Airport/localizer.xml 5.352019 45.362881 398.31 180.24
+OBJECT_SHARED Models/Communications/vhf_direction_finder.xml 5.32545 45.36522 382.23 0
