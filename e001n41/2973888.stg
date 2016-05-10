@@ -24,6 +24,7 @@ OBJECT_SHARED Models/Industrial/GenericPressureVessel20m.xml 1.20154031 41.10596
 OBJECT_SHARED Models/Industrial/GenericPressureVessel20m.xml 1.20177274 41.10644909 8.13 0
 OBJECT_SHARED Models/Industrial/GenericPressureVessel20m.xml 1.22612106 41.10052788 -1.01 0
 OBJECT_SHARED Models/Industrial/GenericPressureVessel20m.xml 1.22649549 41.10057053 -1.3 0
+OBJECT_SHARED Models/Maritime/Civilian/HamburgExpress.xml 1.2132109 41.0922866 0 311.6
 OBJECT_SHARED Models/Industrial/Industrial50x100.xml 1.17698057 41.0953904 7.74 36
 OBJECT_SHARED Models/Industrial/Industrial50x100.xml 1.18001675 41.09853485 10.74 42.1
 OBJECT_SHARED Models/Industrial/Industrial50x100.xml 1.18654436 41.10236323 8.06 276
@@ -35,6 +36,9 @@ OBJECT_SHARED Models/Maritime/Civilian/ContainerShip.xml 1.22673236 41.10390667 
 OBJECT_SHARED Models/Maritime/Civilian/LargeFerry.xml 1.24681491 41.1087913 2.69 0
 OBJECT_SHARED Models/Maritime/Civilian/LargeFerry.xml 1.24803257 41.10716252 2.07 252
 OBJECT_SHARED Models/Industrial/Zone-Indus.xml 1.23930187 41.09970764 0.39 292
+OBJECT_SHARED Models/Effects/smoke_small_slow5000.xml 1.2481196 41.0717588 -1.99 0
+OBJECT_SHARED Models/Maritime/Civilian/Tanker_mooring.xml 1.2081456 41.0926626 0 40
+OBJECT_SHARED Models/Maritime/Civilian/Tanker_mooring.xml 1.2102629 41.0908379 0 40
 OBJECT_SHARED Models/Airport/egkk_oil.xml 1.21107686 41.10651057 4.12 0
 OBJECT_SHARED Models/Airport/egkk_oil.xml 1.21130078 41.10588084 3.35 0
 OBJECT_SHARED Models/Airport/egkk_oil.xml 1.21171078 41.10699462 3.7 0
@@ -390,6 +394,8 @@ OBJECT_SHARED Models/Industrial/HC-Tank.ac 1.179408 41.10412019 11.51 0
 OBJECT_SHARED Models/Industrial/HC-Tank.ac 1.18099917 41.10422556 14.01 0
 OBJECT_SHARED Models/Industrial/HC-Tank.ac 1.18253737 41.10451065 14.75 0
 OBJECT_SHARED Models/Industrial/HC-Tank.ac 1.1836284 41.10418875 12.4 0
+OBJECT_SHARED Models/Maritime/Civilian/SuperTanker.xml 1.2173235 41.0954296 -0.01 40
+OBJECT_SHARED Models/Maritime/Civilian/SuperTanker.xml 1.2263429 41.0931944 0 332
 OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.xml 1.17579106 41.10238767 12.52 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.xml 1.17692023 41.10218733 13.43 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.xml 1.17722853 41.10276062 13.1 0
@@ -645,3 +651,5 @@ OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.xml 1.22650093 41.10039753 -1.14 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.xml 1.22650455 41.1002485 -1 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.xml 1.22666852 41.10040346 -1.26 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.xml 1.22670308 41.10025915 -1.14 0
+OBJECT_SHARED Models/Maritime/Civilian/container_carier.ac 1.2111682 41.0943107 0 39.4
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac 1.24838175 41.0734449 -5.59 0
