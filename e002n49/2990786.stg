@@ -295,7 +295,6 @@ OBJECT_SHARED Models/Airport/Vehicle/fourgon.xml 2.506069 49.014441 104.34 95
 OBJECT_SHARED Models/Airport/Vehicle/fourgon.xml 2.50985 49.009939 101.71 35
 OBJECT_SHARED Models/Airport/Vehicle/fourgon.xml 2.510615 49.01243 104.06 184
 OBJECT_SHARED Models/Airport/Vehicle/fourgon.xml 2.564117 49.006331 103.99 75
-OBJECT_SHARED Models/Airport/Vehicle/fourgon.xml 2.564996 49.001225 101.84 90
 OBJECT_SHARED Models/Airport/Vehicle/fourgon.xml 2.568637 49.00243 102.5 228
 OBJECT_SHARED Models/Airport/Vehicle/fourgon.xml 2.572915 49.014794 106.21 269
 OBJECT_SHARED Models/Airport/Vehicle/fourgon.xml 2.574662 49.014078 105.84 90
@@ -494,8 +493,6 @@ OBJECT_SHARED Models/Airport/Ptite_zonesol.xml 2.56512551 49.00052071 101.48 274
 OBJECT_SHARED Models/Airport/Ptite_zonesol.xml 2.56581598 49.00696002 104.19 95
 OBJECT_SHARED Models/Airport/Ptite_zonesol.xml 2.56764897 49.00706683 104.17 95
 OBJECT_SHARED Models/Airport/Ptite_zonesol.xml 2.56808576 49.0006733 101.67 274
-OBJECT_SHARED Models/Airport/Pushback/generic_pushback.xml 2.562896 49.000813 101.46 0
-OBJECT_SHARED Models/Airport/Pushback/generic_pushback.xml 2.568997 49.001352 102.01 0
 OBJECT_SHARED Models/Airport/Pushback/generic_pushback.xml 2.574418 49.000866 101.79 135
 OBJECT_SHARED Models/Airport/Pushback/generic_pushback.xml 2.57657 49.00679 103.7 350
 OBJECT_SHARED Models/Airport/Pushback/generic_pushback.xml 2.579547 49.007191 103.61 84
@@ -606,7 +603,6 @@ OBJECT_SHARED Models/Airport/Safedock2S-7m.xml 2.5793164 49.00631151 103.39 190
 OBJECT_SHARED Models/Airport/Vehicle/traffic.xml 2.561082 49.004606 103.26 96
 OBJECT_SHARED Models/Airport/Vehicle/traffic.xml 2.567258 49.003901 103.08 90
 OBJECT_SHARED Models/Airport/Vehicle/traffic.xml 2.567847 49.006502 103.98 79
-OBJECT_SHARED Models/Airport/Vehicle/traffic.xml 2.570243 49.022362 110.32 183
 OBJECT_SHARED Models/Airport/Vehicle/traffic.xml 2.570768 49.006331 103.87 280
 OBJECT_SHARED Models/Airport/Vehicle/traffic.xml 2.576154 49.013729 105.63 90
 OBJECT_SHARED Models/Residential/ZoneImmeublesBas2.xml 2.518579 49.001932 100.54 170

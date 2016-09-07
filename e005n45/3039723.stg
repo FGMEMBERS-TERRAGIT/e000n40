@@ -2,6 +2,12 @@ OBJECT_SHARED Models/Airport/ils.xml 5.877861 45.643333 232.36 181.79
 OBJECT_SHARED Models/Communications/vordme_1.xml 5.877861 45.643333 232.36 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 5.8216667 45.6616667 1446.95 180
 OBJECT_SHARED Models/Airport/localizer.xml 5.881078 45.627583 237.9 266.73
+OBJECT_SHARED Models/Airport/thangar.ac 5.8841 45.6351 235.49 93
+OBJECT_SHARED Models/Airport/hangar3.ac 5.8843 45.6323 236.33 183
+OBJECT_SHARED Models/Airport/thangar2.ac 5.8839 45.6402 233.81 93
+OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac 5.88387 45.63798 234.53 3
+OBJECT_SHARED Models/Airport/EDFH_firestationgarage.ac 5.8843 45.6333 236.06 173
+OBJECT_SHARED Models/Airport/EHLE_hangar_1.ac 5.8836 45.6366 234.9 93
 OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 5.86272984 45.68882667 229.97 56
 OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 5.86384308 45.74550343 229.96 0
 OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 5.86844491 45.65415791 229.81 316
@@ -93,3 +99,4 @@ OBJECT_SHARED Models/Maritime/Civilian/green_sharp_pointed_boat.ac 5.89290841 45
 OBJECT_SHARED Models/Maritime/Civilian/lake-sailingboat.ac 5.88167931 45.6584186 229.7 56
 OBJECT_SHARED Models/Aircraft/DR400-red.xml 5.88328569 45.6391469 234.04 336
 OBJECT_SHARED Models/Aircraft/DR400-orange.xml 5.88302835 45.6413715 233.2 312
+OBJECT_SHARED Models/Airport/LFBI_Tower.ac 5.88356 45.63715 234.72 3
