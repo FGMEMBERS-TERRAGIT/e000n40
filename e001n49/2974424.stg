@@ -13,6 +13,7 @@ OBJECT_SHARED Models/Commercial/generic_skyscraper_08.ac 1.07 49.4613889 -290.94
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 1.0425 49.4183333 -25.11 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 1.0727778 49.3933333 24.4 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 1.0830556 49.4719444 106.9 180
+OBJECT_SHARED Models/Industrial/water-tower.ac 1.03176 49.458543 142.43 0
 OBJECT_SHARED Models/Industrial/water-tower.ac 1.0555556 49.4058333 45.73 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 1.1347222 49.4622222 148.94 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 1.2325 49.3761111 161.87 180

@@ -16,9 +16,6 @@ OBJECT_SHARED Models/Industrial/WaterWorks10m.xml 2.13021093 41.30929717 4.23 0
 OBJECT_SHARED Models/Industrial/WaterWorks10m.xml 2.13076579 41.30705728 1.6 0
 OBJECT_SHARED Models/Industrial/WaterWorks10m.xml 2.13112163 41.30854455 3.34 0
 OBJECT_SHARED Models/Industrial/WaterWorks30m.xml 2.07106438 41.28443803 1.84 0
-OBJECT_SHARED Models/Industrial/GenericStorageTank40m.ac 2.06089291 41.29939284 -66.42 0
-OBJECT_SHARED Models/Industrial/GenericStorageTank40m.ac 2.06207067 41.29979475 -66.2 0
-OBJECT_SHARED Models/Industrial/GenericStorageTank40m.ac 2.06294039 41.30011402 -66.02 0
 OBJECT_SHARED Models/Industrial/GenericPressureVessel10m.xml 2.12247335 41.31324926 1.54 0
 OBJECT_SHARED Models/Industrial/GenericPressureVessel10m.xml 2.12268472 41.31335531 2.26 0
 OBJECT_SHARED Models/Industrial/GenericPressureVessel20m.xml 2.12214441 41.31350636 0.78 0
@@ -2725,9 +2722,6 @@ OBJECT_SHARED Models/Maritime/Civilian/wooden_maroon_fishing_boat.ac 2.10648679 
 OBJECT_SHARED Models/Maritime/Civilian/wooden_maroon_fishing_boat.ac 2.10668129 41.28763123 1.37 112
 OBJECT_SHARED Models/Maritime/Civilian/wooden_maroon_fishing_boat.ac 2.10682103 41.28760138 1.1 288
 OBJECT_SHARED Models/Industrial/Schenker_storehouse35x30.xml 2.15706789 41.33411266 0 251.3
-OBJECT_SHARED Models/Industrial/logistic.ac 2.05613543 41.29923713 2.67 293.7
-OBJECT_SHARED Models/Industrial/logistic.ac 2.05728126 41.29962725 2.55 293.6
-OBJECT_SHARED Models/Industrial/logistic.ac 2.0584154 41.30000165 1.97 292.8
 OBJECT_SHARED Models/Industrial/logistic.ac 2.08634141 41.30970522 4.25 291.5
 OBJECT_SHARED Models/Sport/GenericStadium.xml 2.1557512 41.36431494 111.28 92.8
 OBJECT_SHARED Models/StreetFurniture/park-lined.ac 2.05614243 41.29855032 2.91 24
@@ -3674,3 +3668,10 @@ OBJECT_STATIC bellvitgedorm3.xml 2.1138891 41.3536912 21.16 200.6
 OBJECT_STATIC bellvitgedorm3.xml 2.1139456 41.3566038 12.35 200.6
 OBJECT_STATIC bellvitgedorm3.xml 2.1140202 41.3532269 19.92 200.6
 OBJECT_STATIC bellvitgedorm3.xml 2.1142452 41.3562212 12.74 200.6
+OBJECT_STATIC oldlebltwr.xml 2.08274981 41.306067 4.22 115.6
+OBJECT_STATIC obslebltwr.xml 2.07423733 41.2919692 2.2 114.8
+OBJECT_STATIC nauazkrbcn.xml 2.05725202 41.2997227 2.65 24
+OBJECT_STATIC zfrancapol1.xml 2.12421007 41.3192931 10.34 324
+OBJECT_STATIC zfrancapol2.xml 2.13447577 41.307389 2.61 134.8
+OBJECT_STATIC zfrancapol3.xml 2.15331996 41.3205519 0 145.1
+OBJECT_STATIC combus_lebl.ac 2.06541368 41.3004738 4.26 90.2
