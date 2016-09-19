@@ -1,1 +1,6 @@
-OBJECT_SHARED Models/Power/generic_pylon_100m.ac 5.8288889 46.3577778 1001.38 180
+# osm2city_LSGG
+# do not edit below this line
+# Last Written Sat Oct 10 23:38:13 2015
+#
+OBJECT_STATIC LSGGcity0611.ac 5.97567 46.25903 -0.62 0
+# END osm2city_LSGG
