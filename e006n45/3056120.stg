@@ -1,0 +1,12 @@
+OBJECT_SHARED Models/Airport/ils.xml 6.094625 45.926867 454.59 319.74
+OBJECT_SHARED Models/Communications/radio-medium.xml 6.1725 45.9166667 526.46 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 6.094625 45.926867 454.59 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac 6.1277778 45.8847222 635.44 180
+OBJECT_SHARED Models/Airport/localizer.xml 6.105642 45.935156 463.18 128.9
+OBJECT_SHARED Models/Airport/EHLE_hangar_1.ac 6.1061 45.9303 459.52 327
+OBJECT_SHARED Models/Aircraft/EC145-Securite_Civile.ac 6.10314 45.9268 449.45 0
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.xml 6.10568822 45.9303774 459.53 148
+OBJECT_SHARED Models/Residential/lflg-habitation-planeurs.ac 6.1067088 45.9311315 460.79 328
+OBJECT_SHARED Models/Airport/Hangar_planeurs.ac 6.1048 45.9289 457.49 327
+OBJECT_SHARED Models/Airport/Hangar_70x15.ac 6.1053 45.9287 456.98 326
+OBJECT_SHARED Models/Airport/Meythet.ac 6.10636 45.9308 460.26 328

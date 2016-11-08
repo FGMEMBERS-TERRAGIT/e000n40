@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac 0.25 47.2688889 -11 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac 0.3447222 47.2558333 57.99 180
+OBJECT_SHARED Models/Industrial/water-tower.ac 0.3513889 47.3083333 76.87 180
+OBJECT_SHARED Models/Communications/base_clape_02.xml 0.46708 47.36448 97.73 0
