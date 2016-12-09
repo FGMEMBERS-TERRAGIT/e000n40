@@ -5,4 +5,5 @@ OBJECT_SHARED Models/Power/generic_pylon_100m.ac 0.7005556 49.8633333 19.59 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 0.7377778 49.8647222 31.57 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 0.7380556 49.8647222 26.67 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 0.7125 49.8238889 79.7 180
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 0.70878 49.873476 6.36 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 0.635 49.87167 -1.8 242.14

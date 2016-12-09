@@ -7,6 +7,8 @@ OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac 8.943601 44.406972 -364
 OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac 8.944867 44.406435 -367.41 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac 8.948461 44.404201 -388.07 180
 OBJECT_SHARED Models/Airport/localizer.xml 8.822778 44.416667 0.57 17.29
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 8.904599 44.404542 3.02 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 8.952763 44.39197 6.01 0
 OBJECT_STATIC GE_WTC.xml 8.90108713 44.40770557 25.62 0
 OBJECT_STATIC GE-matitone.xml 8.906919 44.411214 16.07 0
 # dsf2stg

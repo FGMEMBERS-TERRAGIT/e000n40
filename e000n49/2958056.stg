@@ -23,6 +23,8 @@ OBJECT_SHARED Models/Industrial/HC-Tank.ac 0.15402496 49.65663729 8.57 47
 OBJECT_SHARED Models/Industrial/HC-Tank.ac 0.15427131 49.65876093 10.47 47
 OBJECT_SHARED Models/Industrial/HC-Tank.ac 0.15436883 49.6599133 8.62 47
 OBJECT_SHARED Models/Maritime/Civilian/SuperTanker.xml 0.12862708 49.6662062 -2.04 180
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 0.151825 49.638632 94.42 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 0.165368 49.683512 88.55 0
 OBJECT_SHARED Models/Communications/Antenna3.ac 0.15944853 49.6495661 95.9 180
 OBJECT_SHARED Models/Communications/Antenna-House.ac 0.15950484 49.6494476 97.26 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac 0.03 49.6833 -4.69 36.07

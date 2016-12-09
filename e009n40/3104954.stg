@@ -136,3 +136,5 @@ OBJECT_SHARED Models/Airport/tower_small_airfield.xml 9.51396 40.90191 12.26 213
 #OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51532 40.90195 11.10 125
 #OBJECT_SHARED Models/lib/jetway_e16m.ac 9.51488 40.90172 11.09 125
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 9.566734 40.920511 -2.42 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 9.733511 40.924388 72.67 0

@@ -4,6 +4,8 @@ OBJECT_SHARED Models/Power/generic_pylon_100m.ac 0.09 49.2572222 134.51 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 0.2469444 49.3708333 114.25 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 0.2477778 49.3722222 119.37 180
 OBJECT_SHARED Models/Airport/localizer.xml 0.135047 49.371756 143.89 27.22
+OBJECT_SHARED Models/Commercial/OfficeBuilding74x18m.ac 0.154 49.36215 145.73 63
+OBJECT_SHARED Models/Airport/BT.ac 0.15279 49.36256 145.82 243
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 0.0747616 49.3672669 0.85 79.86
 # dsf2stg
 # do not edit below this line
@@ -47,3 +49,8 @@ OBJECT_SHARED Models/lib/SmHangar.ac 0.16191 49.36389 139.25 61.7043
 OBJECT_SHARED Models/lib/SmHangar.ac 0.15949 49.36039 148.11 211.263
 OBJECT_SHARED Models/lib/MedHangar.ac 0.15922 49.36070 146.33 213.494
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 0.073871 49.36727 -2.1 0
+OBJECT_SHARED Models/Airport/hangar_25x25m_tan.ac 0.15504 49.36171 145.67 119
+OBJECT_SHARED Models/Airport/hangar_25x25m_tan.ac 0.15523 49.36149 145.75 119
+OBJECT_SHARED Models/Airport/Club_House.ac 0.15364 49.36232 145.74 63
+OBJECT_SHARED Models/Airport/tourMelun.ac 0.15619 49.36033 146.23 30

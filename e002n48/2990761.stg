@@ -587,7 +587,7 @@ OBJECT_SHARED Models/Airport/Pushback/tow-car.xml 2.3679008 48.727211 85.08 15
 OBJECT_SHARED Models/Airport/Pushback/tow-car.xml 2.3747838 48.728474 86.16 322
 OBJECT_SHARED Models/Airport/Pushback/tow-car.xml 2.3754538 48.731388 86.35 316
 OBJECT_SHARED Models/Airport/Pushback/tow-car.xml 2.3759708 48.744083 85.7 0
-OBJECT_SHARED Models/Aircraft/vintage1.xml 2.3670738 48.741272 85.02 0
+OBJECT_SHARED Models/Aircraft/vintage1-ba.ac 2.3670738 48.741272 85.02 0
 OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 2.3585714 48.7294576 83.12 151.8
 OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 2.361053 48.7309943 83.48 209.1
 OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 2.3642378 48.7267397 84.49 318.6

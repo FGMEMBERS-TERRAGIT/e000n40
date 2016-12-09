@@ -278,6 +278,7 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 9.23953 48.78069 224.
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 9.2401647 48.7809296 226.6 326.08
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 9.2420084 48.7796732 218.23 196.84
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac 9.22801 48.81976 220.19 166.93
+OBJECT_SHARED Models/Misc/Steiger_Wheel.xml 9.219 48.796 221.87 0
 OBJECT_STATIC tvtower_stuttgart.xml 9.1882 48.7553 486.42 175
 OBJECT_STATIC fernmeldeturm_stuttgart.xml 9.20564 48.76364 471.47 0
 OBJECT_STATIC funkturm_stuttgart.ac 9.22158 48.77338 413.1 232
