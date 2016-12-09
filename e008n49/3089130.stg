@@ -12,3 +12,9 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.5601152 49.7243117 92.29 90.42
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.5606773 49.7378475 92.84 90.47
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.5608413 49.7249508 92.08 90.75
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.5608535 49.7245102 91.74 91.03
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 8.61942 49.62527 96.22 254.67
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 8.62341 49.62513 96.09 0
+# END dsf2stg
