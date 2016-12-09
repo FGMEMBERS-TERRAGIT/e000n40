@@ -5,3 +5,4 @@ OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml 0.0492432 40.0009012 -2.0
 OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml 0.0829224 40.0052338 -4.63 0
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 0.1346507 40.0739035 -0.02 319.58
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 0.1339268 40.0746991 0 357.57
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 0.1467667 40.0832167 -2.4 0

@@ -164,6 +164,10 @@ OBJECT_SHARED Models/Maritime/Civilian/Ponton-T.ac 0.0961385 49.4892798 2.13 180
 OBJECT_SHARED Models/Maritime/Civilian/Ponton-T.ac 0.0965868 49.4908123 2.9 186.2
 OBJECT_SHARED Models/Maritime/Civilian/Ponton-T.ac 0.0967197 49.4892798 3.51 180
 OBJECT_SHARED Models/Maritime/Civilian/Ponton-T.ac 0.09730084 49.4892797 4.91 180
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 0.090664 49.486608 -2.4 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 0.108333 49.481666 9.41 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 0.126043 49.478417 2.99 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 0.214366 49.424506 5.72 0
 OBJECT_STATIC Twr-Office.ac 0.10430699 49.48452851 1.4 265
 OBJECT_STATIC Centrale-thermique.xml 0.14550037 49.4746014 7.5 123.8
 OBJECT_STATIC Volcan_Theater.ac 0.10675729 49.4906215 8.22 87.4

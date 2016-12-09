@@ -11,3 +11,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9789285 49.2077375 240.82 267.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9789739 49.2088238 245.14 267.86
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.9790327 49.2096335 249.51 267.28
 OBJECT_SHARED Models/Communications/fernmeldeturm_gruenwettersbach.xml 8.8502778 49.2411111 -143.76 180
+OBJECT_SHARED Models/Sport/GenericStadium.xml 8.887596 49.238056 180.1 15
