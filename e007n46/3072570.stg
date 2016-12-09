@@ -10,7 +10,7 @@ OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 7.50401 46.91034 510.00 311.0
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 7.50184 46.91301 508.66 207.867
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 7.50179 46.91299 508.65 23.7496
 OBJECT_SHARED Models/Transport/hatchback_blue.ac 7.50170 46.91296 508.64 29.8153
-# OBJECT_SHARED Models/lib/office32x25.ac 7.50213 46.91265 508.68 213.17
+OBJECT_SHARED Models/lib/office32x25.ac 7.50213 46.91265 508.68 213.17
 OBJECT_SHARED Models/lib/MedHangar.ac 7.50135 46.91318 509.07 28.83
 OBJECT_SHARED Models/Airport/FGRefuel02.xml 7.50373 46.91122 510.00 224.06
 OBJECT_SHARED Models/lib/chariot3.ac 7.50120 46.91334 508.99 299.22
@@ -20,7 +20,7 @@ OBJECT_SHARED Models/lib/chariot1.ac 7.50354 46.91139 510.00 136.507
 OBJECT_SHARED Models/lib/chariot3.ac 7.50350 46.91142 509.98 30.4198
 OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 7.50362 46.91152 508.88 45.7439
 OBJECT_SHARED Models/Trees/deciduous-tree2.xml 7.50032 46.91404 508.51 0
-# OBJECT_SHARED Models/Airport/tower_small_airfield.xml 7.50232 46.91275 508.72 124.38
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 7.50232 46.91275 508.72 124.38
 OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.50467 46.90943 510.00 266.42
 OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.50438 46.90968 510.00 181.17
 OBJECT_SHARED Models/Airport/EDXW_lamp_10m.xml 7.50505 46.91003 510.00 38.2
