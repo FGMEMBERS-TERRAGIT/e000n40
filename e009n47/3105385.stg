@@ -1,0 +1,27 @@
+OBJECT_SHARED Models/Airport/marker.xml 9.491047 47.662917 402.21 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml 9.4602778 47.6630556 -0.41 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac 9.4613889 47.6636111 -4.29 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 9.4638889 47.6641667 -24.74 180
+#OBJECT_SHARED Models/Airport/localizer.xml 9.495914 47.665275 403.66 330.03
+
+OBJECT_STATIC Friedrichshafen_main_harbor.ac 9.4813432 47.649324 388.11 128.8
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4867434 47.651079 388 40
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4866871 47.651045 388 40
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4865782 47.65099 388 43.7
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4864156 47.650903 388 40
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4864658 47.65131 388 40
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4864047 47.65128 388 36.6
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4863499 47.651246 388 39.5
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4862464 47.651193 388 40
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4861959 47.651159 388 40
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.486081 47.651104 388 42.2
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4859702 47.651043 388 40.3
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.486285 47.651384 388 218.7
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4861749 47.651321 388 217.9
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4861197 47.651297 388 216.5
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4860207 47.651236 388 217.5
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4859027 47.65117 388 219.8
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4858434 47.651143 388 218.2
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.485796 47.651114 388 215.3
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4860971 47.651528 388 128.2
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4858479 47.651399 388 129.7

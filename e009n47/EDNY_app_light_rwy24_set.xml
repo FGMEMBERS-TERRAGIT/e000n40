@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+<!-- EDNY Custom Approach Light Set -->
+<!-- RWY 24 Approach lights ALSF-II -->
+
+<!-- EDNY Orginal 14 Lightpoles -->
+
+<!-- Approach Light elevated - 11 -->
+<model>
+	<path>EDNY_app_light_poles.ac</path>
+    <offsets>
+      <x-m> 0.000 </x-m>
+      <y-m> 0.000 </y-m>
+      <z-m> 0.000 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Approach Light elevated - 12 -->
+
+<model>
+	<path>EDNY_app_light_poles.ac</path>
+    <offsets>
+      <x-m> 30.000 </x-m>
+      <y-m>  0.000 </y-m>
+      <z-m>  0.500 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Approach Light elevated - 13 -->
+
+<model>
+	<path>EDNY_app_light_poles.ac</path>
+    <offsets>
+      <x-m> 60.000 </x-m>
+      <y-m>  0.000 </y-m>
+      <z-m>  1.000 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Approach Light elevated - 14 -->
+
+<model>
+	<path>EDNY_app_light_poles.ac</path>
+    <offsets>
+      <x-m> 90.000 </x-m>
+      <y-m>  0.000 </y-m>
+      <z-m>  1.500 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Approach Light elevated - 15 -->
+
+<model>
+	<path>EDNY_app_light_poles.ac</path>
+    <offsets>
+      <x-m> 120.000 </x-m>
+      <y-m>   0.000 </y-m>
+      <z-m>   2.000 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Approach Light elevated - 16 -->
+
+<model>
+	<path>EDNY_app_light_poles.ac</path>
+    <offsets>
+      <x-m> 150.000 </x-m>
+      <y-m>   0.000 </y-m>
+      <z-m>   2.500 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Approach Light elevated - 17 -->
+
+<model>
+	<path>EDNY_app_light_poles.ac</path>
+    <offsets>
+      <x-m> 180.000 </x-m>
+      <y-m>   0.000 </y-m>
+      <z-m>   3.000 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Approach Light elevated - 18 -->
+
+<model>
+	<path>EDNY_app_light_poles.ac</path>
+    <offsets>
+      <x-m> 210.000 </x-m>
+      <y-m>   0.000 </y-m>
+      <z-m>   3.500 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Approach Light elevated - 19 -->
+
+<model>
+	<path>EDNY_app_light_poles.ac</path>
+    <offsets>
+      <x-m> 240.000 </x-m>
+      <y-m>   0.000 </y-m>
+      <z-m>   4.000 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Approach Light elevated - 20 -->
+
+<model>
+	<path>EDNY_app_light_poles.ac</path>
+    <offsets>
+      <x-m> 270.000 </x-m>
+      <y-m>   0.000 </y-m>
+      <z-m>   4.500 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Approach Light elevated - 21 -->
+
+<model>
+	<path>EDNY_app_light_poles.ac</path>
+    <offsets>
+      <x-m> 300.000 </x-m>
+      <y-m>   0.000 </y-m>
+      <z-m>   5.000 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Approach Light elevated - 22 -->
+
+<model>
+	<path>EDNY_app_light_poles.ac</path>
+    <offsets>
+      <x-m> 330.000 </x-m>
+      <y-m>   0.000 </y-m>
+      <z-m>   5.500 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Approach Light elevated - 23 -->
+
+<model>
+	<path>EDNY_app_light_poles.ac</path>
+    <offsets>
+      <x-m> 360.000 </x-m>
+      <y-m>   0.000 </y-m>
+      <z-m>   6.000 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Approach Light elevated - 24 -->
+
+<model>
+	<path>EDNY_app_light_poles.ac</path>
+    <offsets>
+      <x-m> 390.000 </x-m>
+      <y-m>   0.000 </y-m>
+      <z-m>   6.500 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Approach Light elevated - 25 extra for FGFS Lights -->
+
+<model>
+	<path>EDNY_app_light_poles.ac</path>
+    <offsets>
+      <x-m> 420.000 </x-m>
+      <y-m>   0.000 </y-m>
+      <z-m>   6.500 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Approach Light elevated - 26 extra for FGFS Lights -->
+
+<model>
+	<path>EDNY_app_light_poles.ac</path>
+    <offsets>
+      <x-m> 450.000 </x-m>
+      <y-m>   0.000 </y-m>
+      <z-m>   6.500 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Approach Light elevated - 27 extra for FGFS Lights -->
+
+<model>
+	<path>EDNY_app_light_poles.ac</path>
+    <offsets>
+      <x-m> 480.000 </x-m>
+      <y-m>   0.000 </y-m>
+      <z-m>   6.500 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Approach Light elevated - 28 extra for FGFS Lights -->
+
+<model>
+	<path>EDNY_app_light_poles.ac</path>
+    <offsets>
+      <x-m> 510.000 </x-m>
+      <y-m>   0.000 </y-m>
+      <z-m>   6.500 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Approach Light elevated - 29 extra for FGFS Lights -->
+
+<model>
+	<path>EDNY_app_light_poles.ac</path>
+    <offsets>
+      <x-m> 540.000 </x-m>
+      <y-m>   0.000 </y-m>
+      <z-m>   6.500 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- LOD -->
+	<animation>
+		<type>range</type>
+		<min-m>0</min-m>
+		<max-m>20000</max-m>
+	</animation>
+	
+</PropertyList>
+
