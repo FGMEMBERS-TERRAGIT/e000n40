@@ -7,7 +7,7 @@ OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 7.7561111 49.4475 -198.4 
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac 7.84040 49.44762 291.65 328.63
-OBJECT_SHARED Models/lib/lamp10m.xml 7.84036 49.44757 291.76 0
-OBJECT_SHARED Models/lib/lamp10m.xml 7.84046 49.44767 291.23 -78.37
+OBJECT_SHARED Models/lib/SmHangar.ac 7.84040 49.44762 288.56 328.63
+OBJECT_SHARED Models/lib/lamp10m.xml 7.84036 49.44757 288.53 0
+OBJECT_SHARED Models/lib/lamp10m.xml 7.84046 49.44767 288.69 -78.37
 # END dsf2stg
