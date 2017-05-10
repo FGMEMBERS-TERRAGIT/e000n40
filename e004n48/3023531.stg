@@ -4,7 +4,7 @@ OBJECT_SHARED Models/Airport/tacan.xml 4.889194 48.637 132.33 180
 OBJECT_SHARED Models/Airport/marker.ac 4.926667 48.628389 131.97 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 4.9580556 48.6380556 115.37 180
 OBJECT_SHARED Models/Industrial/generic_silo_2.ac 4.765 48.6513889 80.99 180
-OBJECT_SHARED Models/Airport/localizer.xml 4.879392 48.641647 131.73 23.06
+OBJECT_SHARED Models/Airport/localizer.xml 4.879392 48.641647 131.73 66.26
 OBJECT_SHARED Models/Aircraft/rafaleB_lowpoly.ac 4.8842292 48.6353898 130.94 312
 OBJECT_SHARED Models/Aircraft/rafaleB_lowpoly.ac 4.8854889 48.6346983 131.06 352
 OBJECT_SHARED Models/Aircraft/rafaleB_lowpoly.ac 4.8857021 48.6356527 131.34 120

@@ -27,7 +27,7 @@ OBJECT_SHARED Models/Power/windturbine.xml 9.985 49.4855556 391.88 180
 OBJECT_SHARED Models/Airport/ils.xml 9.960833 49.3935 465.62 103.81
 OBJECT_SHARED Models/Communications/radio-medium.xml 9.9619444 49.4780556 289.55 180
 OBJECT_SHARED Models/Airport/marker.ac 9.979167 49.396 440.37 180
-OBJECT_SHARED Models/Airport/localizer.xml 9.951167 49.390667 465.18 345.3
+OBJECT_SHARED Models/Airport/localizer.xml 9.951167 49.390667 465.18 103.81
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.8430823 49.4650957 267.41 357.75
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.8501671 49.4649144 247.27 357.55
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.8540422 49.4647979 278.52 338.19

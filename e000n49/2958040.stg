@@ -108,6 +108,7 @@ OBJECT_SHARED Models/Maritime/Civilian/ContainerShip.xml 0.0961596 49.4838976 -0
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml 0.2259604 49.4289441 0.9 229.87
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 0.2257733 49.4307226 0.69 132.92
 OBJECT_SHARED Models/Airport/helipad_circle.xml 0.189674 49.483292 11.57 0
+OBJECT_SHARED Models/Industrial/ContainerCrane.xml 0.1529 49.4732 1.71 170
 OBJECT_SHARED Models/Maritime/Civilian/Tanker_sailing.xml 0.0825348 49.4888521 -0.4 65
 OBJECT_SHARED Models/Power/coal_heap_large.ac 0.143719 49.475307 1.66 0
 OBJECT_SHARED Models/Communications/vodafone_funkturm.xml 0.17279 49.49667 2.48 180

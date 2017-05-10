@@ -1,3 +1,4 @@
+OBJECT_SHARED Models/Airport/ndb.ac 3.243611 43.933056 748.35 0
 OBJECT_SHARED Models/Airport/FGRefuel02.xml 3.18124246 43.98717129 792.48 36
 OBJECT_SHARED Models/Trees/deciduous-tree2.xml 3.18035068 43.98773392 793.05 0
 OBJECT_SHARED Models/Trees/deciduous-tree2.xml 3.18039006 43.98770254 793.04 0
@@ -41,3 +42,5 @@ OBJECT_SHARED Models/Transport/Norberttruck.xml 3.17727603 43.99140441 791.62 30
 OBJECT_SHARED Models/Aircraft/Cessna172_blue.xml 3.1811807 43.98739538 792.57 304
 OBJECT_SHARED Models/Boundaries/grid-square_15m.ac 3.18314601 43.98626745 792.46 36
 OBJECT_SHARED Models/Airport/weather-station.ac 3.18310514 43.9862406 792.42 36
+OBJECT_SHARED Models/Aircraft/pc6_blue_lowpoly.ac 3.1785878 43.9905444 791.02 0
+OBJECT_SHARED Models/Aircraft/dhc6_blue_lowpoly.ac 3.1811382 43.9877901 792.02 216

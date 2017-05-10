@@ -1,3 +1,4 @@
+OBJECT_SHARED Models/Airport/ndb.ac 4.992784 45.615833 324.77 0
 OBJECT_SHARED Models/Communications/radio-medium.xml 4.7944444 45.5777778 28.57 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 4.883417 45.556444 278.9 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 4.8027778 45.5694444 -197.93 180

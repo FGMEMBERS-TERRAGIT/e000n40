@@ -1,10 +1,11 @@
+OBJECT_SHARED Models/Airport/ndb.ac 4.016111 48.797778 144.15 0
 OBJECT_SHARED Models/Airport/ils.xml 4.163306 48.777569 168.69 257.48
 OBJECT_SHARED Models/Airport/ils.xml 4.203822 48.772256 173.43 77.49
 OBJECT_SHARED Models/Communications/vordme_1.xml 4.146944 48.781083 161.64 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 4.163294 48.777569 168.69 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 4.203833 48.772253 173.43 180
-OBJECT_SHARED Models/Airport/localizer.xml 4.154414 48.780108 164.16 11.23
-OBJECT_SHARED Models/Airport/localizer.xml 4.213917 48.772303 173.97 191.28
+OBJECT_SHARED Models/Airport/localizer.xml 4.154414 48.780108 164.16 77.49
+OBJECT_SHARED Models/Airport/localizer.xml 4.213917 48.772303 173.97 257.48
 OBJECT_SHARED Models/Residential/banlieue.xml 4.06799298 48.78756769 136.56 0
 OBJECT_SHARED Models/Residential/banlieue.xml 4.07502523 48.78621337 142.72 0
 OBJECT_SHARED Models/Residential/banlieue.xml 4.11580078 48.77575132 146.15 0

@@ -61,6 +61,7 @@ OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 8.4827329 49.285823 85.96 22.81
 OBJECT_SHARED Models/Airport/hanger-42fx42f-tan-01.ac 8.448937 49.307189 95.02 9
 OBJECT_SHARED Models/Airport/hanger-42fx42f-tan-01.ac 8.449141 49.306673 94.92 9
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 8.454387 49.303643 93.92 0
+OBJECT_SHARED Models/StreetFurniture/pont_autoroute.ac 8.452606 49.316562 91 50
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 8.458684 49.3142655 94.51 278.71
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 8.458738 49.3142987 94.64 331.95
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 8.4595431 49.3139457 94.16 22.56

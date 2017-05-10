@@ -35,3 +35,5 @@ OBJECT_SHARED Models/lib/SmHangar.ac 8.12580 44.04521 41.74 249.88
 OBJECT_SHARED Models/lib/MedHangar.ac 8.12494 44.04514 43.05 158.53
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 8.12306 44.04523 45.59 47.9
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml 8.119722 44.048889 45.94 83.5
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 8.127617 44.048169 37.82 180

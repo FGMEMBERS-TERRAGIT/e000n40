@@ -27,3 +27,5 @@ OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.55849 49.40284 346.04 0
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.55843 49.40277 346.10 0
 OBJECT_SHARED Models/lib/deciduous-tree3.xml 7.55825 49.40279 346.29 0
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml 7.573228 49.432061 235.19 97
+OBJECT_SHARED Models/Airport/localizer.xml 7.628147 49.436894 240.8 277.48

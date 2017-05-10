@@ -80,3 +80,4 @@ OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac 0.51454 44.82276 50.92 40.6548
 OBJECT_SHARED Models/Aircraft/D328_services.xml 0.51528 44.82273 50.82 131.906
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 0.51081 44.82306 51.22 355.668
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml 0.503597 44.825342 49.1 86

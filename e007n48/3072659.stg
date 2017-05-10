@@ -156,3 +156,4 @@ OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.83560 48.37425 151.24 149.036
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.83573 48.37441 151.21 156.038
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 7.83598 48.37474 151.12 156.371
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml 7.816592 48.355467 153.01 151.38

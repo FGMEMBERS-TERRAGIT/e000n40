@@ -13,3 +13,4 @@ OBJECT_SHARED Models/lib/fboModern1.ac 6.79543 47.08443 1016.12 306.08
 OBJECT_SHARED Models/lib/SmHangar.ac 6.79603 47.08458 1015.59 216.97
 OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 6.79687 47.08525 1015.23 307.45
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml 6.786694 47.080833 1024.19 123.75

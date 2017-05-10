@@ -1,12 +1,20 @@
 OBJECT_SHARED Models/Airport/ils.xml 7.205528 43.654419 2.77 315.1
 OBJECT_SHARED Models/Airport/ils.xml 7.206225 43.647919 1.04 317.2
 OBJECT_SHARED Models/Communications/radio-medium.xml 7.20449 43.66226 -23.92 0
-OBJECT_SHARED Models/Communications/vordme_1.xml 7.145917 43.64525 5.19 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 7.224417 43.659722 1.35 180
 OBJECT_SHARED Models/Airport/localizer.xml 7.228394 43.669518 3.46 134.9
 OBJECT_SHARED Models/Airport/localizer.xml 7.228394 43.669521 3.46 134.9
 OBJECT_SHARED Models/Airport/localizer.xml 7.229444 43.667774 0.99 132.8
 OBJECT_SHARED Models/Airport/radar.xml 7.20448 43.66461 7.41 0
+OBJECT_SHARED Models/Airport/Jetway/jetway-a320-ba.xml 7.2116031 43.6643685 5.84 326.8
+OBJECT_SHARED Models/Aircraft/320volare.xml 7.2105829 43.6639368 5.77 55.2
+OBJECT_SHARED Models/Aircraft/af-a320.xml 7.2159241 43.664113 4.91 337.6
+OBJECT_SHARED Models/Aircraft/ATR42.xml 7.211142 43.6627206 4.97 276
+OBJECT_SHARED Models/Aircraft/ATR42.xml 7.2123992 43.6630134 4.89 8
+OBJECT_SHARED Models/Aircraft/ATR42.xml 7.2155084 43.6645113 5.26 303.6
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 7.2120671 43.6644149 5.79 9.2
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 7.2126829 43.6644904 5.73 22.4
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 7.2133736 43.6645703 5.66 5.6
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 7.2136341 43.6646146 5.64 44
 OBJECT_SHARED Models/Airport/windsock_lit.xml 7.2015501 43.654704 2.61 0
 OBJECT_SHARED Models/Airport/windsock_lit.xml 7.21069 43.6495 1.52 0
 OBJECT_SHARED Models/Airport/windsock_lit.xml 7.21399 43.65162 1.72 0
@@ -75,6 +83,10 @@ OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 7.22852 43.67309 5.5 0
 OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 7.22878 43.67299 5.03 0
 OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 7.22899 43.67284 4.59 0
 OBJECT_SHARED Models/Airport/maszt.ac 7.21996 43.65614 1.46 0
+OBJECT_SHARED Models/Misc/apronworker4.xml 7.2131192 43.6644916 5.66 0
+OBJECT_SHARED Models/Misc/wheelchockboy.xml 7.2117525 43.6643654 5.81 0
+OBJECT_SHARED Models/Misc/trafficconeboy.xml 7.2123201 43.6643516 5.7 0
+OBJECT_SHARED Models/Misc/trafficconeboy.xml 7.2135937 43.66454 5.6 0
 OBJECT_SHARED Models/Airport/appliance_room.xml 7.21723 43.65453 1.69 45
 # dsf2stg
 # do not edit below this line
@@ -192,3 +204,12 @@ OBJECT_SHARED Models/lib/office112x50.ac 7.20152 43.66448 8.15 297.71
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 7.21478 43.66566 6.20 223.1
 OBJECT_SHARED Models/lib/CargoPodPkng.ac 7.20945 43.66423 6.05 -80.5378
 # END dsf2stg
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 7.145917 43.64525 5.19 180
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 7.224417 43.659722 1.35 180
+OBJECT_SHARED Models/Aircraft/Lear60.ac 7.2114973 43.662121 4.63 48
+OBJECT_SHARED Models/Aircraft/Lear60.ac 7.2168727 43.6649724 5.32 204
+OBJECT_SHARED Models/Aircraft/Lear60.ac 7.2176306 43.6655059 5.56 292
+OBJECT_STATIC LFMN_Terminal_1.ac 7.21420941 43.6647341 5.62 99.6
+OBJECT_STATIC LFMN_Terminal_1_Finger.ac 7.21155798 43.6643728 5.85 99.6
+OBJECT_STATIC LFMN_Terminal_1_Parking.ac 7.20883269 43.6643644 6.34 99.6
+OBJECT_STATIC LFMN_Terminal_1_Towercomplex.ac 7.21412718 43.6650909 5.87 99.6

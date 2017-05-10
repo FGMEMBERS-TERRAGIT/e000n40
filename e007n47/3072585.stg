@@ -1,5 +1,4 @@
 OBJECT_SHARED Models/Airport/ndb.ac 7.414603 47.183378 428.81 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 7.418181 47.183153 426.78 180
 OBJECT_SHARED Models/Power/windturbine_flash.xml 7.4003295 47.2322131 1352.98 180
 # dsf2stg
 # do not edit below this line
@@ -19,3 +18,4 @@ OBJECT_SHARED Models/lib/MedHangar.ac 7.41211 47.18272 429.27 294.01
 OBJECT_SHARED Models/lib/LongRow.ac 7.41439 47.18280 428.51 204.1
 OBJECT_SHARED Models/lib/LongRow.ac 7.41366 47.18239 428.64 24.3
 # END dsf2stg
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 7.418181 47.183153 426.78 180

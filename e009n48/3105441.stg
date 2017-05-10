@@ -1,4 +1,3 @@
-OBJECT_SHARED Models/Communications/vordme_1.xml 9.259208 48.618408 358.19 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 9.36 48.5169444 -16.49 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 9.2738889 48.5516667 303.99 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.2504312 48.589853 353.01 265.06
@@ -104,3 +103,4 @@ OBJECT_SHARED Models/lib/lamp10m.xml 9.47031 48.61117 366.68 331.34
 OBJECT_SHARED Models/lib/lamp10m.xml 9.47053 48.61110 366.61 332.1
 OBJECT_SHARED Models/lib/lamp10m.xml 9.47071 48.61119 366.31 243.43
 # END dsf2stg
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 9.259208 48.618408 358.19 180

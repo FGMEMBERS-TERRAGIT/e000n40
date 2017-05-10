@@ -1,10 +1,10 @@
 OBJECT_SHARED Models/Airport/ils.xml 4.947475 45.724508 203.15 16.05
-OBJECT_SHARED Models/Airport/ils.xml 4.948222 45.717889 200.16 343.45
+OBJECT_SHARED Models/Airport/ils.xml 4.948222 45.717889 200.16 197
 OBJECT_SHARED Models/Communications/radio-medium.xml 4.98 45.7466667 135.92 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 4.947469 45.724517 203.16 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 4.947475 45.724508 203.15 180
 OBJECT_SHARED Models/Industrial/generic_flare_01.ac 4.8444444 45.6716667 90.58 180
-OBJECT_SHARED Models/Airport/localizer.xml 4.940114 45.736936 194.77 73.44
+OBJECT_SHARED Models/Airport/localizer.xml 4.940114 45.736936 194.77 17
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.8995566 45.7137721 192.31 318.89
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.902183 45.7121719 190.47 318.79
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 4.9050154 45.7104339 189.14 341.85

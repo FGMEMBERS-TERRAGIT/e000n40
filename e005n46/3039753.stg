@@ -19,3 +19,4 @@ OBJECT_SHARED Models/lib/SmHangar.ac 5.28912 46.20246 259.92 90
 OBJECT_SHARED Models/lib/SmHangar.ac 5.28921 46.20242 259.80 180
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 5.28874 46.20418 260.66 0.119995
 # END dsf2stg
+OBJECT_SHARED Models/Airport/ndb.ac 5.288889 46.203889 262.27 0

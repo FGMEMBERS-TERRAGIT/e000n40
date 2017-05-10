@@ -1,7 +1,7 @@
-OBJECT_SHARED Models/Airport/ils.xml 6.949444 43.556389 4 171
 OBJECT_SHARED Models/Communications/vordme_1.xml 6.870944 43.560361 478.05 180
 OBJECT_SHARED Models/Industrial/WaterWorks30m.xml 6.94955 43.54257 3.83 0
 OBJECT_SHARED Models/Industrial/WaterWorks30m.xml 6.95017 43.54262 1.31 0
+OBJECT_SHARED Models/Airport/localizer.xml 6.949444 43.556389 4 7
 OBJECT_SHARED Models/Airport/SignalsSquare.ac 6.95079 43.54228 0.79 0
 OBJECT_SHARED Models/Communications/vhf_direction_finder.xml 6.95054 43.5564 4.64 0
 OBJECT_SHARED Models/Airport/anemometer_10m.xml 6.95058 43.55659 4.71 0

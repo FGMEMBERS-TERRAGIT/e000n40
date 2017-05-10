@@ -10,8 +10,6 @@ OBJECT_SHARED Models/Communications/radio-medium.xml 2.4236111 48.8861111 60.34 
 OBJECT_SHARED Models/Communications/radio-tall.xml 2.2530556 48.8897222 -388.59 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 2.42664 48.967491 66.22 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 2.44237 48.966812 65.83 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 2.455167 48.974667 68.95 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 2.455866 48.975361 69.2 180
 OBJECT_SHARED Models/Airport/marker.ac 2.368296 48.950596 53.52 180
 OBJECT_SHARED Models/Airport/marker.ac 2.439647 48.989094 72.14 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml 2.2672222 48.8838889 -226.48 180
@@ -439,6 +437,7 @@ OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml 2.469239 48.99822 55.
 OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml 2.471148 48.999559 53.42 150
 OBJECT_SHARED Models/Residential/zone_maisons_long.xml 2.474205 48.99912 71.79 250
 OBJECT_SHARED Models/Residential/zone_maisons_long.xml 2.485613 48.998674 88.17 350
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 2.455167 48.974667 59.68 180
 OBJECT_STATIC tour-axa-fb.xml 2.2516976 48.8886042 48.89 92.5
 OBJECT_STATIC lafayette-ba.xml 2.28384 48.879635 62.61 64
 OBJECT_STATIC Sacrecoeur.xml 2.340006 48.884479 98.43 271

@@ -1,6 +1,6 @@
 OBJECT_SHARED Models/Airport/ils.xml 9.554314 47.484983 399.09 260.87
 OBJECT_SHARED Models/Communications/vordme_1.xml 9.554322 47.485019 399.08 180
-OBJECT_SHARED Models/Airport/localizer.xml 9.570822 47.483731 398.85 189.81
+OBJECT_SHARED Models/Airport/localizer.xml 9.570822 47.483731 398.85 260.87
 OBJECT_SHARED Models/Trees/coniferous-tree.xml 9.560285 47.487316 398.65 0
 OBJECT_SHARED Models/Trees/coniferous-tree2.xml 9.560316 47.487316 398.65 0
 OBJECT_SHARED Models/Airport/eddf_blast_deflector_low.xml 9.5710639 47.4840836 398.85 352.1

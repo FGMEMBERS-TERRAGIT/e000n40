@@ -64,3 +64,4 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 6.23970 49.78744 355.25 261.25
 OBJECT_SHARED Models/Trees/billboard-tree.xml 6.23927 49.78774 355.73 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 6.23913 49.78768 355.76 199.98
 # END dsf2stg
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 6.129722 49.861389 324.47 180
