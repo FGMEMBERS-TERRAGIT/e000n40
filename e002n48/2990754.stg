@@ -25,7 +25,7 @@ OBJECT_SHARED Models/Industrial/water-tower.ac 2.5869444 48.5011111 82.32 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 2.5966667 48.5813889 85.39 180
 OBJECT_SHARED Models/Industrial/WaterWorks50m.xml 2.627492 48.526722 40.08 0
 OBJECT_SHARED Models/Industrial/WaterWorks50m.xml 2.629136 48.527843 38.74 0
-OBJECT_SHARED Models/Airport/localizer.xml 2.651033 48.608428 87.87 13.52
+OBJECT_SHARED Models/Airport/localizer.xml 2.651033 48.608428 87.87 76.96
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 2.5004104 48.5321702 73.63 121.12
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 2.5006665 48.5404974 79.35 347.04
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 2.5012944 48.5325226 74.35 121.11

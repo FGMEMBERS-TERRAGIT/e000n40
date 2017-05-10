@@ -1,8 +1,7 @@
-OBJECT_SHARED Models/Airport/ils.xml 3.983094 43.574162 -0.57 55
+OBJECT_SHARED Models/Airport/ils.xml 3.980098 43.575203 -0.78 55
 OBJECT_SHARED Models/Communications/radio-medium.xml 3.8258333 43.6058333 -9.21 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 3.974722 43.578361 0.14 180
-OBJECT_SHARED Models/Airport/marker.ac 3.983363 43.57472 0.02 180
-OBJECT_SHARED Models/Airport/localizer.xml 3.955189 43.587372 4.6 35
+OBJECT_SHARED Models/Airport/marker.ac 3.983955 43.571895 -0.72 180
+OBJECT_SHARED Models/Airport/localizer.xml 3.952997 43.587486 4.82 55
 OBJECT_SHARED Models/Commercial/Cinema90x54.ac 3.93667 43.578686 59.15 100
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 3.7501626 43.5117786 106.04 223.71
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 3.7501639 43.5562271 32.86 137.12
@@ -252,3 +251,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 3.9377516 43.5723648 4.37 308.87
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 3.9383068 43.5727292 3.83 85.87
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 3.9384015 43.5726242 3.63 85.87
 OBJECT_SHARED Models/Aircraft/EC145-Securite_Civile.ac 3.95951 43.57479 1.78 0
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 3.974722 43.578361 0.13 180

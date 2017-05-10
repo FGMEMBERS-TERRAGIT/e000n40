@@ -7,3 +7,7 @@ OBJECT_SHARED Models/Power/generic_pylon_100m.ac 0.7380556 49.8647222 26.67 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 0.7125 49.8238889 79.7 180
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 0.70878 49.873476 6.36 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 0.635 49.87167 -1.8 242.14
+OBJECT_SHARED Models/Airport/Hangar_20mx14m.ac 0.65928 49.83867 79.29 115
+OBJECT_SHARED Models/Airport/LFCA-Tower-LR.ac 0.65957 49.83831 79.09 24
+OBJECT_SHARED Models/Airport/EDWB_HangarBRight.xml 0.65878 49.83826 79.07 25
+OBJECT_SHARED Models/Airport/hangcyl30x18.ac 0.65934 49.83898 79.44 25

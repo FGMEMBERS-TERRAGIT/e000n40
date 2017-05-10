@@ -1,8 +1,7 @@
 OBJECT_SHARED Models/Airport/ndb.ac 5.13725 43.489806 0.74 180
-OBJECT_SHARED Models/Airport/ndb.ac 5.2175 43.439167 5.49 180
+OBJECT_SHARED Models/Airport/ndb.ac 5.217476 43.43831 6.12 180
 OBJECT_SHARED Models/Airport/ils.xml 5.202167 43.444256 0.62 224.87
 OBJECT_SHARED Models/Airport/ils.xml 5.218889 43.432222 11.37 45.28
-OBJECT_SHARED Models/Airport/ils.xml 5.225664 43.424911 19.7 314.92
 OBJECT_SHARED Models/Communications/vordme_1.xml 5.086833 43.386306 188.64 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 5.202167 43.444256 0.62 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 5.218889 43.432222 11.37 180
@@ -39,6 +38,7 @@ OBJECT_SHARED Models/Industrial/WaterWorks50m.xml 5.16435 43.47252 0 0
 OBJECT_SHARED Models/Communications/Fernsehturm-Stade.xml 5.23982072 43.44632495 78.01 0
 OBJECT_SHARED Models/Communications/base_clape_02.xml 5.24549 43.46899 201.76 0
 OBJECT_SHARED Models/Airport/localizer.xml 5.196389 43.449722 0.27 43.96
+OBJECT_SHARED Models/Airport/localizer.xml 5.225664 43.424911 19.7 225
 OBJECT_SHARED Models/Airport/localizer.xml 5.230908 43.425536 23.9 224.07
 OBJECT_SHARED Models/Residential/banlieue.xml 5.17025701 43.49244645 8.05 0
 OBJECT_SHARED Models/Residential/banlieue.xml 5.1762802 43.49247869 8.52 0

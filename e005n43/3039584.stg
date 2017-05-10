@@ -11,7 +11,7 @@ OBJECT_SHARED Models/Communications/base_clape_04.xml 5.12038 43.6207 67.26 0
 OBJECT_SHARED Models/Communications/base_clape_04.xml 5.12079 43.62061 67.26 0
 OBJECT_SHARED Models/Communications/base_clape_04.xml 5.12088 43.62087 67.57 0
 OBJECT_SHARED Models/Communications/base_clape_04.xml 5.12122 43.62081 67.77 0
-OBJECT_SHARED Models/Airport/localizer.xml 5.113969 43.596936 57.46 249.71
+OBJECT_SHARED Models/Airport/localizer.xml 5.113969 43.596936 57.46 198.9
 OBJECT_SHARED Models/Residential/banlieue.xml 5.17028955 43.50084799 11.06 0
 OBJECT_SHARED Models/Residential/banlieue.xml 5.18398773 43.50570338 17.75 0
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.2185416 43.6224642 169.6 303.26
@@ -25,3 +25,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.2461104 43.5921543 179.72 303.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 5.2499041 43.5879643 203.68 303.45
 OBJECT_SHARED Models/Communications/tower-microwave-1.xml 5.11056 43.62377 64.09 0
 OBJECT_SHARED Models/Communications/vhf_direction_finder.xml 5.10239 43.60822 58.91 0
+OBJECT_SHARED Models/Residential/french_house_s.ac 5.08158147 43.5337185 54.69 312

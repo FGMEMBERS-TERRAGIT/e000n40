@@ -5,7 +5,6 @@ OBJECT_SHARED Models/Communications/radio-medium.xml 7.41832 43.78909 961.41 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 7.4258 43.77488 1041.13 180
 OBJECT_SHARED Models/Communications/radio-tall.xml 7.41563 43.79422 953.83 0
 OBJECT_SHARED Models/Communications/radio-tall.xml 7.41645 43.79445 1054.58 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 7.254389 43.770639 836.23 180
 OBJECT_SHARED Models/Communications/cell-monopole3-75m.xml 7.41942 43.76964 1086.7 0
 OBJECT_SHARED Models/Industrial/water-tower.ac 7.41954 43.77135 1136.94 0
 OBJECT_SHARED Models/Communications/base_clape_02.xml 7.4196137 43.7708943 1128.54 0
@@ -33,3 +32,4 @@ OBJECT_SHARED Models/Airport/helipad_circle.xml 7.42026 43.77323 1118.65 0
 OBJECT_SHARED Models/Communications/tower-microwave-1.xml 7.42675 43.76478 792.04 0
 OBJECT_SHARED Models/Communications/tower-microwave-1.xml 7.42678 43.76403 775.44 0
 OBJECT_SHARED Models/Communications/tower-microwave-1.xml 7.42794 43.7636 756.41 0
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 7.254389 43.770639 836.23 180

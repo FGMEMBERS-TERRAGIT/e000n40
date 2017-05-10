@@ -18,10 +18,10 @@ OBJECT_SHARED Models/Communications/radome-8m.xml 2.010623 48.775113 165.53 0
 OBJECT_SHARED Models/Industrial/water-tower.ac 2.0305556 48.7830556 161.2 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 2.0472222 48.7822222 163.69 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 2.17 48.7530556 153.52 180
-OBJECT_SHARED Models/Airport/localizer.xml 2.095197 48.750414 160.72 341.17
-OBJECT_SHARED Models/Airport/localizer.xml 2.113813 48.754623 147.38 161.17
-OBJECT_SHARED Models/Airport/localizer.xml 2.18625 48.774067 174.73 358.3
-OBJECT_SHARED Models/Airport/localizer.xml 2.216519 48.774658 170.64 178.31
+OBJECT_SHARED Models/Airport/localizer.xml 2.095197 48.750414 160.72 109.98
+OBJECT_SHARED Models/Airport/localizer.xml 2.113813 48.754623 147.38 288.95
+OBJECT_SHARED Models/Airport/localizer.xml 2.18625 48.774067 174.73 92.83
+OBJECT_SHARED Models/Airport/localizer.xml 2.216519 48.774658 170.64 271
 OBJECT_SHARED Models/Residential/banlieue.xml 2.225325 48.868268 41.94 300
 OBJECT_SHARED Models/Residential/banlieue.xml 2.22991 48.844087 35.2 317
 OBJECT_SHARED Models/Residential/banlieue.xml 2.234387 48.837316 35.58 90

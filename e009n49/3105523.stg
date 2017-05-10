@@ -98,6 +98,6 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac 9.9812142 49.75342
 OBJECT_SHARED Models/Trees/line_trees.xml 9.898448 49.8168941 294.69 72
 OBJECT_SHARED Models/Airport/hangar_25x25m_tan.ac 9.9000567 49.8177149 299.7 340
 OBJECT_SHARED Models/Airport/hangar_25x25m_tan.ac 9.9009106 49.8175357 300 340
-OBJECT_SHARED Models/Power/thermosolar_plant.ac 9.8963089 49.8217889 284.83 340
+OBJECT_SHARED Models/Power/thermosolar_plant.ac 9.8963089 49.8217889 286.83 340
 OBJECT_SHARED Models/Aircraft/ASK-13_Trailer.ac 9.9003758 49.8164139 294.8 0
 OBJECT_SHARED Models/Aircraft/ASK-13_Trailer.ac 9.9004491 49.8164417 295.19 0

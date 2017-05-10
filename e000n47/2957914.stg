@@ -16,7 +16,7 @@ OBJECT_SHARED Models/Communications/base_clape_03.xml 0.7198309 47.4375 107.95 0
 OBJECT_SHARED Models/Communications/base_clape_04.xml 0.7250183 47.4396734 107.42 0
 OBJECT_SHARED Models/Communications/base_clape_04.xml 0.725721 47.4394375 108.22 0
 OBJECT_SHARED Models/Communications/base_clape_04.xml 0.725721 47.4397024 108.22 0
-OBJECT_SHARED Models/Airport/localizer.xml 0.721881 47.417983 103.56 285.21
+OBJECT_SHARED Models/Airport/localizer.xml 0.721881 47.417983 103.56 165
 OBJECT_SHARED Models/Military/shelter.ac 0.71698549 47.42958775 107.79 245.6
 OBJECT_SHARED Models/Military/shelter.ac 0.71754747 47.42860316 108.12 273.6
 OBJECT_SHARED Models/Military/shelter.ac 0.71789887 47.42991269 108.1 211.2

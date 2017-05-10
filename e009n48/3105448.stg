@@ -13,8 +13,8 @@ OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 9.0097222 48.6380556 55.1
 OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac 9.20381638 48.69169136 299.33 0
 OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac 9.20414526 48.69189045 298.93 0
 OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac 9.20449588 48.69210348 298.49 0
-OBJECT_SHARED Models/Airport/localizer.xml 9.189067 48.683633 395.83 343.95
-OBJECT_SHARED Models/Airport/localizer.xml 9.247536 48.694722 355.88 163.99
+OBJECT_SHARED Models/Airport/localizer.xml 9.189067 48.683633 395.83 106
+OBJECT_SHARED Models/Airport/localizer.xml 9.247536 48.694722 355.88 285.99
 OBJECT_SHARED Models/Residential/banlieue.xml 9.21759748 48.6795624 372.56 356
 OBJECT_SHARED Models/Residential/tour-ba.xml 9.19743183 48.69056512 333.5 14.7
 OBJECT_SHARED Models/Residential/tour-ba.xml 9.21749206 48.68569203 317.16 0

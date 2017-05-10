@@ -9,8 +9,8 @@ OBJECT_SHARED Models/Airport/marker.ac 8.139575 48.842072 115.24 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 8.0183333 48.7522222 -283.15 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 8.0308333 48.8333333 70.19 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 8.145 48.7752778 86.13 180
-OBJECT_SHARED Models/Airport/localizer.xml 8.068092 48.766106 122.61 301.94
-OBJECT_SHARED Models/Airport/localizer.xml 8.093017 48.792706 118.35 121.45
+OBJECT_SHARED Models/Airport/localizer.xml 8.068092 48.766106 122.61 147.22
+OBJECT_SHARED Models/Airport/localizer.xml 8.093017 48.792706 118.35 327.31
 OBJECT_SHARED Models/Misc/generic_church_03.ac 8.2252778 48.7738889 158.16 180
 OBJECT_SHARED Models/Maritime/Civilian/SimpleFreighter.ac 8.1125472 48.8311744 132.03 349.2
 OBJECT_SHARED Models/Communications/fremersbergturm.xml 8.2022222 48.7525 506 0

@@ -15,4 +15,4 @@ OBJECT_SHARED Models/Power/windturbine.xml 7.8997222 48.2958333 436.87 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 7.8658333 48.3408333 67.68 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 7.827517 48.364142 153.03 180
 OBJECT_SHARED Models/Misc/generic_church_02.ac 7.8702778 48.3383333 170.56 180
-OBJECT_SHARED Models/Airport/localizer.xml 7.816592 48.355467 153.01 298.21
+OBJECT_SHARED Models/Airport/localizer.xml 7.816592 48.355467 153.01 151.38
