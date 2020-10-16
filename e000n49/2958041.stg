@@ -45,3 +45,4 @@ OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac 0.26881 49.426835 -72.
 OBJECT_SHARED Models/Industrial/generic_tank_020m_grey.ac 0.26882 49.426295 -71.67 0
 OBJECT_STATIC Pont-de-Normandie.xml 0.27387363 49.4333561 0 95.2
 OBJECT_STATIC Pont-de-Tancarville.xml 0.46659771 49.4708827 10.16 303.8
+OBJECT_STATIC ViaGCHavre.ac 0.27449 49.46364 10 180

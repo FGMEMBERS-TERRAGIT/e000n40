@@ -8,3 +8,5 @@ OBJECT_SHARED Models/Power/generic_pylon_100m.ac 2.8761111 47.5719444 128.7 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 2.8775 47.5197222 94.13 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 2.8161111 47.535 166.83 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 2.8438889 47.5647222 160.66 180
+OBJECT_SHARED Models/Power/reacteurPal.ac 2.87455 47.50956 147.33 218
+OBJECT_SHARED Models/Power/reacteurPal.ac 2.87629 47.51047 153.08 218

@@ -19,3 +19,5 @@ OBJECT_SHARED Models/Industrial/water-tower.ac 1.8719444 47.9 108.31 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 1.9527778 47.8775 94.61 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 1.8037467 47.8751377 100.59 114.22
 OBJECT_SHARED Models/Power/windturbine_flash.xml 1.7827921 47.9591401 123.95 180
+OBJECT_STATIC Georg5Orleans.ac 1.9045 47.89486 91.79 183.4
+OBJECT_STATIC CathOrleans.ac 1.90953 47.90158 114.89 97

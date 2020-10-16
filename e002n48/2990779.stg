@@ -1,11 +1,11 @@
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 2.9277778 48.9508333 -383.66 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 2.8841667 48.8961111 129.91 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 2.9594444 48.8941667 164.32 180
-OBJECT_SHARED Models/Industrial/Industrial55x35.ac 2.8585709 48.95863436 80.29 275.7
-OBJECT_SHARED Models/Industrial/Industrial55x35.ac 2.85912438 48.95797423 80 4
-OBJECT_SHARED Models/Industrial/Industrial55x35.ac 2.85927291 48.9587001 81.29 96
-OBJECT_SHARED Models/Industrial/Industrial35x55.ac 2.85757093 48.95832151 77.5 256
-OBJECT_SHARED Models/Industrial/Industrial35x55.ac 2.8582741 48.95798125 78.86 344
+OBJECT_SHARED Models/Industrial/Industrial55x35.ac 2.8476909 48.95928436 72.49 275.7
+OBJECT_SHARED Models/Industrial/Industrial55x35.ac 2.84824438 48.95862423 70.36 4
+OBJECT_SHARED Models/Industrial/Industrial55x35.ac 2.84839291 48.9593501 73.08 96
+OBJECT_SHARED Models/Industrial/Industrial35x55.ac 2.84669093 48.95897151 69.92 256
+OBJECT_SHARED Models/Industrial/Industrial35x55.ac 2.8473941 48.95863125 69.98 344
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 2.7810367 48.8893786 115.94 290.91
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 2.7813286 48.8888763 115.14 292.7
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 2.7842211 48.8846999 99.42 296.2
@@ -27,7 +27,7 @@ OBJECT_SHARED Models/Airport/LFPZ1c.xml 2.83453366 48.9258609 60.9 114.4
 OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml 2.80530342 48.94815949 80.61 17.4
 OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml 2.80712923 48.92604416 43.5 6.7
 OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml 2.81294127 48.93551682 51.45 0
-OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml 2.85941766 48.95122637 77.55 0
+OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml 2.84785339 48.95086156 62.11 301.4
 OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml 2.8640734 48.92816298 63.01 340
 OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml 2.86839972 48.93844318 52.42 332
 OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml 2.86971669 48.9401311 48.04 0
@@ -48,3 +48,4 @@ OBJECT_SHARED Models/Aircraft/Cessna150_fr_reg.xml 2.83501715 48.92189338 56.2 0
 OBJECT_SHARED Models/Aircraft/Cessna150_fr_reg.xml 2.84249369 48.92542263 61.69 0
 OBJECT_SHARED Models/Aircraft/Cessna172_fr_reg.xml 2.84218366 48.92469923 61.18 339.8
 OBJECT_SHARED Models/Aircraft/DR400_fr_reg.xml 2.83477458 48.92182082 55.99 0
+OBJECT_STATIC ViaMeaux.ac 2.85897 48.91616 74.65 91

@@ -14,3 +14,11 @@ OBJECT_SHARED Models/Power/windturbine_flash.xml 4.879231 44.678397 517.92 0
 OBJECT_SHARED Models/Power/windturbine_flash.xml 4.881115 44.679425 500.99 0
 OBJECT_SHARED Models/Power/windturbine_flash.xml 4.985519 44.641093 390.76 0
 OBJECT_SHARED Models/Power/windturbine_flash.xml 4.988267 44.64199 396.82 0
+OBJECT_SHARED Models/Power/reacteur.ac 4.75491 44.63131 79.77 325
+OBJECT_SHARED Models/Power/reacteur.ac 4.75555 44.63196 79.08 325
+OBJECT_SHARED Models/Power/reacteur.ac 4.7573 44.63375 94.92 325
+OBJECT_SHARED Models/Power/reacteur.ac 4.75796 44.63442 90.35 325
+OBJECT_SHARED Models/Power/froid.ac 4.75388 44.63169 79.27 235
+OBJECT_SHARED Models/Power/froid.ac 4.75451 44.63235 78.8 235
+OBJECT_SHARED Models/Power/froid.ac 4.75632 44.63413 90.23 235
+OBJECT_SHARED Models/Power/froid.ac 4.75695 44.63476 91.35 235
