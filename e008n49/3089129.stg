@@ -25,4 +25,5 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 8.4148047 49.7139431 
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 8.446201 49.7304683 85 339.62
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 8.4566705 49.7431365 85.37 277.93
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 8.4633255 49.7479189 85.43 26.26
+OBJECT_SHARED Models/Maritime/Civilian/River_Ambassador.ac 8.37170725 49.6579089 87.63 88
 OBJECT_STATIC biblis_npp.xml 8.4158 49.7092 101.19 100

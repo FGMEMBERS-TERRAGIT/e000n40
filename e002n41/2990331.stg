@@ -1,6 +1,5 @@
 OBJECT_SHARED Models/Airport/ils.xml 2.764075 41.913169 141.87 163.45
 OBJECT_SHARED Models/Communications/vordme_1.xml 2.763806 41.913214 146.26 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 2.771967 41.931178 151.42 180
 OBJECT_SHARED Models/Industrial/WaterWorks20m.xml 2.79257815 41.98671622 81.35 0
 OBJECT_SHARED Models/Industrial/WaterWorks20m.xml 2.7929199 41.98618257 79.94 0
 OBJECT_SHARED Models/Industrial/GenericStorageTank10m.ac 2.76464782 41.89594249 36.02 0
@@ -9,7 +8,7 @@ OBJECT_SHARED Models/Industrial/GenericStorageTank10m.ac 2.76545331 41.89580623 
 OBJECT_SHARED Models/Communications/base_clape_02.xml 2.9971944 41.8889056 511.43 0
 OBJECT_SHARED Models/Communications/base_clape_03.xml 2.9099 41.9829472 468.77 0
 OBJECT_SHARED Models/Communications/base_clape_03.xml 2.9099528 41.9832778 467.39 0
-OBJECT_SHARED Models/Airport/localizer.xml 2.757269 41.892306 117.05 285.72
+OBJECT_SHARED Models/Airport/localizer.xml 2.757269 41.892306 117.05 163.45
 OBJECT_SHARED Models/Industrial/GenericStorageTank15m.ac 2.76442975 41.89587657 36.38 0
 OBJECT_SHARED Models/Industrial/GenericStorageTank15m.ac 2.76477269 41.8958283 36.33 336
 OBJECT_SHARED Models/Industrial/GenericStorageTank15m.ac 2.76517333 41.89573812 37.17 0
@@ -584,6 +583,7 @@ OBJECT_SHARED Models/Airport/silo_tank_10m.xml 2.79116241 41.98643113 86.59 0
 OBJECT_SHARED Models/Airport/silo_tank_10m.xml 2.79259022 41.98709972 81.1 0
 OBJECT_SHARED Models/Power/transformer.ac 2.78984218 41.98709952 87.56 0
 OBJECT_SHARED Models/Power/transformer.ac 2.78984447 41.98740281 88.36 0
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 2.771967 41.931178 151.42 180
 OBJECT_SHARED Models/Aircraft/Cessna172_blue.xml 2.76529159 41.90326835 131.78 344
 OBJECT_SHARED Models/Power/small-electric-transformer.ac 2.79211874 41.98633684 82.67 0
 OBJECT_SHARED Models/Power/small-electric-transformer.ac 2.79211925 41.98639294 82.66 0

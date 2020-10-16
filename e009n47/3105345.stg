@@ -52,3 +52,9 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 9.47999 47.01496 491.91 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.48008 47.01490 492.11 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 9.47983 47.01503 491.91 0
 # END dsf2stg
+OBJECT_SHARED Models/Trees/populus_Italica.xml 9.484498 47.0149429 493.99 279
+OBJECT_SHARED Models/Trees/populus_Italica.xml 9.4848288 47.0148146 494.36 320
+OBJECT_SHARED Models/Trees/populus_Italica.xml 9.4850788 47.0146794 494.71 264
+OBJECT_SHARED Models/Trees/populus_Italica.xml 9.4854454 47.0144918 495.22 72
+OBJECT_SHARED Models/Airport/LSZE_Hangar.ac 9.48425224 47.0146874 494.15 53.7
+OBJECT_SHARED Models/Airport/LSZE_Office.xml 9.48386236 47.0145035 494.17 50.8

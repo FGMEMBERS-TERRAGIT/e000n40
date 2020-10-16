@@ -14,3 +14,6 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 5.3158547 43.3576926 
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 5.3162926 43.3574996 0 43.7
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 5.3172586 43.3479142 -0.03 245.66
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 5.318011 43.2802089 -0.01 207.75
+OBJECT_SHARED Models/Maritime/Misc/Phare_If.ac 5.32754 43.28015 17.99 34
+OBJECT_STATIC ND_Garde.ac 5.37109 43.28425 136.49 318
+OBJECT_STATIC Chateau_If.ac 5.32539 43.27969 0 90

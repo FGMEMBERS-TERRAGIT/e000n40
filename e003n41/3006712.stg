@@ -1,5 +1,4 @@
 OBJECT_SHARED Models/Airport/ndb.ac 3.203075 41.951514 222.6 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 3.208858 41.947686 303.33 180
 OBJECT_SHARED Models/Sport/SwimmingPool.xml 3.1891125 41.9932205 11.48 0
 OBJECT_SHARED Models/Sport/SwimmingPool.xml 3.1900603 41.9947614 10.59 0
 OBJECT_SHARED Models/Sport/SwimmingPool.xml 3.190702 41.9936534 10.2 0
@@ -18,5 +17,6 @@ OBJECT_SHARED Models/Sport/SwimmingPool.xml 3.1968927 41.9998719 4.7 0
 OBJECT_SHARED Models/Sport/SwimmingPool.xml 3.1969766 41.9993819 3.31 0
 OBJECT_SHARED Models/Sport/SwimmingPool.xml 3.1974921 41.9975201 2.95 0
 OBJECT_SHARED Models/Sport/SwimmingPool.xml 3.1984052 41.9967125 2.69 0
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 3.208858 41.947686 303.33 180
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 3.202446 41.896082 142.61 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 3.2024667 41.8960333 140.54 0

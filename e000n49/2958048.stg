@@ -14,7 +14,6 @@ OBJECT_SHARED Models/Industrial/water-tower.ac 0.13958 49.50465 79.93 0
 OBJECT_SHARED Models/Industrial/water-tower.ac 0.1694444 49.5497222 82.01 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 0.2302778 49.5916667 82.63 180
 OBJECT_SHARED Models/Airport/localizer.xml 0.07575 49.525256 93.95 135.93
-OBJECT_SHARED Models/Aircraft/af-a320.xml 0.0919224 49.532558 87.6 160.7
 OBJECT_SHARED Models/Communications/tower-microwave-1.xml 0.17555 49.50413 80.64 180
 OBJECT_SHARED Models/Airport/Vehicle/fire-truck-muc.xml 0.09136782 49.5315131 87.61 292
 OBJECT_SHARED Models/Communications/vhf_direction_finder.xml 0.0878764 49.5365888 91.54 0

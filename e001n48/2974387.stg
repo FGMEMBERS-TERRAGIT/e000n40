@@ -538,3 +538,4 @@ OBJECT_SHARED Models/lib/lamp10m.xml 1.98184 48.84048 126.06 253.93
 OBJECT_SHARED Models/lib/lamp10m.xml 1.98183 48.84045 125.98 74.74
 OBJECT_SHARED Models/lib/lamp10m.xml 1.98118 48.84068 126.63 141.1
 # END dsf2stg
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 1.980774 48.841058 126.88 150

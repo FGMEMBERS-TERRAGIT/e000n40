@@ -30,3 +30,4 @@ OBJECT_SHARED Models/Residential/large-residential-highrise.ac 5.73884 45.19182 
 OBJECT_SHARED Models/Industrial/logistic.ac 5.70314 45.15993 225.63 40
 OBJECT_SHARED Models/Sport/GenericStadium.xml 5.74011 45.18739 218.77 45
 OBJECT_SHARED Models/Industrial/HC-Tank.ac 5.6928 45.20625 210.66 0
+OBJECT_STATIC PerretGren.ac 5.73542 45.18494 216.17 22.5

@@ -4,3 +4,4 @@ OBJECT_SHARED Models/Power/generic_pylon_100m.ac 0.4486111 47.2488889 63.81 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 0.48 47.2011111 88.91 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 0.3427778 47.2272222 118.14 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 0.4488889 47.2491667 98.05 180
+OBJECT_STATIC ChatUsse.ac 0.29104 47.24962 70.06 104

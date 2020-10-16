@@ -197,3 +197,4 @@ OBJECT_SHARED Models/StreetFurniture/trash-container.ac 7.92360 48.45241 153.54 
 OBJECT_SHARED Models/lib/cars4.ac 7.92261 48.45027 155.27 67.81
 OBJECT_SHARED Models/lib/MedHangar.ac 7.92372 48.45197 153.84 160.155
 # END dsf2stg
+OBJECT_STATIC PontPflimlin.ac 7.76648 48.49171 142.2 81.5

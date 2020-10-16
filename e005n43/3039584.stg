@@ -55,3 +55,4 @@ OBJECT_SHARED Models/lib/SmHangar.ac 5.18355 43.53907 30.96 90
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac 5.18454 43.53922 31.39 90
 # END dsf2stg
 OBJECT_SHARED Models/Residential/french_house_s.ac 5.08158147 43.5337185 54.69 312
+OBJECT_SHARED Models/Residential/french_house_s.xml 5.08158147 43.5337185 54.69 312

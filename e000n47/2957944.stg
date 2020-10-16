@@ -413,3 +413,18 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 0.19525 47.94258 -0.02 258.69
 OBJECT_SHARED Models/Trees/billboard-tree.xml 0.19519 47.94252 -0.00 327.43
 OBJECT_SHARED Models/Trees/billboard-tree.xml 0.19513 47.94249 0.01 239.86
 # END dsf2stg
+OBJECT_SHARED Models/Residential/french_house_c.xml 0.1908397 47.9297626 44.19 192
+OBJECT_SHARED Models/Residential/french_house_c.xml 0.1950596 47.9403888 51.93 120
+OBJECT_SHARED Models/Residential/french_house_c.xml 0.1959785 47.9303672 43.88 312
+OBJECT_SHARED Models/Residential/french_house_c.xml 0.1963184 47.9430415 48.93 10
+OBJECT_SHARED Models/Residential/french_house_c.xml 0.1975089 47.9534811 57.35 0
+OBJECT_SHARED Models/Residential/french_house_c.xml 0.1992422 47.9549223 63.48 96
+OBJECT_SHARED Models/Residential/french_house_c.xml 0.2008262 47.9570925 68.7 96
+OBJECT_SHARED Models/Residential/french_house_c.xml 0.2035052 47.9403694 45.58 48
+OBJECT_SHARED Models/Residential/french_house_c.xml 0.2071036 47.9527602 64.55 48
+OBJECT_SHARED Models/Residential/french_house_c.xml 0.2088432 47.9486614 50.28 96
+OBJECT_SHARED Models/Residential/french_house_c.xml 0.2091683 47.9563604 72.19 24
+OBJECT_SHARED Models/Residential/french_house_c.xml 0.2091904 47.9591669 76.45 144
+OBJECT_SHARED Models/Residential/french_house_c.xml 0.2114947 47.9397297 43.41 0
+OBJECT_STATIC Epau.ac 0.24236 47.99152 50.86 94
+OBJECT_STATIC EpauSud.ac 0.242318 47.991014 52.38 94
