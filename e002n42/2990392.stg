@@ -1,3 +1,8 @@
 OBJECT_SHARED Models/Airport/Hangar_puivert.ac 2.06092528 42.9090687 496.18 216
 OBJECT_SHARED Models/Airport/Hangar_puivert2.ac 2.06056824 42.9092274 494.42 36
 OBJECT_STATIC puivert._3.ac 2.05509918 42.9209321 592.61 100
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 2.06010 42.90853 0.00 75.84
+# END dsf2stg

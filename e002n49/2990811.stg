@@ -19,3 +19,14 @@ OBJECT_SHARED Models/Airport/HangarCyl1.ac 2.80629 49.43238 91.13 50
 OBJECT_SHARED Models/Airport/HangarCyl1.ac 2.8065 49.43227 90.41 50
 OBJECT_SHARED Models/Airport/HangarCyl1.ac 2.80671 49.43216 89.69 50
 OBJECT_SHARED Models/Airport/Margny.ac 2.80397 49.43553 95.69 50
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac 2.80152 49.43494 0.00 233.27
+OBJECT_SHARED Models/lib/SmHangar.ac 2.80134 49.43503 95.81 233.27
+OBJECT_SHARED Models/lib/SmHangar.ac 2.80115 49.43512 96.03 233.27
+OBJECT_SHARED Models/lib/SmHangar.ac 2.80065 49.43537 96.19 233.27
+OBJECT_SHARED Models/lib/SmHangar.ac 2.80090 49.43525 96.89 233.27
+OBJECT_SHARED Models/lib/LongRow.ac 2.80566 49.43271 96.02 320.64
+OBJECT_SHARED Models/lib/LongRow.ac 2.80709 49.43360 91.55 320.64
+# END dsf2stg

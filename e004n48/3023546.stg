@@ -9,3 +9,11 @@ OBJECT_SHARED Models/Power/windturbine_flash.xml 4.613929 48.9928701 164.6 180
 OBJECT_SHARED Models/Power/windturbine_flash.xml 4.6909048 48.8765073 224.1 0
 OBJECT_SHARED Models/Power/windturbine_flash.xml 4.7072792 48.9877078 172.09 180
 OBJECT_SHARED Models/Power/windturbine_flash.xml 4.7348296 48.9615162 200.6 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree.xml 4.50350 48.99218 158.92 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 4.50353 48.99204 148.69 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.50350 48.99191 148.27 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 4.50365 48.99209 148.01 0
+# END dsf2stg

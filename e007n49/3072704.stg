@@ -1,3 +1,11 @@
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 7.0361111 49.0083333 -221.76 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 7.0341667 49.0869444 226.84 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 7.2022222 49.0847222 307.51 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree.xml 7.24736 49.04700 377.93 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 7.24573 49.04532 362.31 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml 7.24603 49.04472 354.40 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 7.24965 49.04275 373.21 0
+# END dsf2stg

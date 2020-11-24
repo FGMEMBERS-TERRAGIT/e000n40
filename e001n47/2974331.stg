@@ -21,3 +21,8 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 1.8037467 47.8751377 100.59 114.
 OBJECT_SHARED Models/Power/windturbine_flash.xml 1.7827921 47.9591401 123.95 180
 OBJECT_STATIC Georg5Orleans.ac 1.9045 47.89486 91.79 183.4
 OBJECT_STATIC CathOrleans.ac 1.90953 47.90158 114.89 97
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 1.76973 47.98205 0.00 20.73
+# END dsf2stg

@@ -34,3 +34,10 @@ OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4858434 47.651
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.485796 47.651114 388 215.3
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4860971 47.651528 388 128.2
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.ac 9.4858479 47.651399 388 129.7
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars10.ac 9.49921 47.66419 407.78 209.45
+OBJECT_SHARED Models/lib/cars10.ac 9.49916 47.66217 403.05 167.47
+OBJECT_SHARED Models/lib/cars10.ac 9.49936 47.66323 402.69 212.21
+# END dsf2stg

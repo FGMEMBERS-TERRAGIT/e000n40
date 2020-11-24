@@ -5,3 +5,8 @@ OBJECT_SHARED Models/Power/windturbine_flash.xml 6.8135712 48.5447622 289.63 180
 OBJECT_SHARED Models/Power/windturbine_flash.xml 6.8241467 48.5841866 267.47 180
 OBJECT_SHARED Models/Power/windturbine_flash.xml 6.8347222 48.6236111 338.47 180
 OBJECT_SHARED Models/Power/windturbine_flash.xml 6.9384422 48.5874788 304.32 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac 6.76794 48.55927 0.00 13.17
+# END dsf2stg

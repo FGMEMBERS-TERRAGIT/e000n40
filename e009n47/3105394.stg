@@ -4,3 +4,8 @@ OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 9.6611111 47.8291667 59.9
 OBJECT_SHARED Models/Misc/generic_church_02.ac 9.6447222 47.8091667 490.12 180
 OBJECT_SHARED Models/Communications/fernmeldeturm_waldenbuch.xml 9.7225 47.76925 748.06 180
 OBJECT_SHARED Models/Communications/mil-antena-118m.xml 9.726042 47.774431 718.52 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac 9.54037 47.83080 0.00 107.524
+# END dsf2stg

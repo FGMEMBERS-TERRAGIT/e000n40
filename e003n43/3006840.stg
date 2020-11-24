@@ -44,3 +44,22 @@ OBJECT_SHARED Models/Boundaries/grid-square_15m.ac 3.18314601 43.98626745 792.46
 OBJECT_SHARED Models/Airport/weather-station.ac 3.18310514 43.9862406 792.42 36
 OBJECT_SHARED Models/Aircraft/pc6_blue_lowpoly.ac 3.1785878 43.9905444 791.02 0
 OBJECT_SHARED Models/Aircraft/dhc6_blue_lowpoly.ac 3.1811382 43.9877901 792.02 216
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 3.18016 43.98868 0.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 3.18138 43.98708 791.96 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 3.18132 43.98705 792.93 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 3.18119 43.98711 793.16 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 3.18176 43.98731 793.13 307.33
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 3.18002 43.98813 792.24 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 3.18011 43.98804 792.73 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 3.18021 43.98795 792.77 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 3.18037 43.98792 792.69 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 3.18040 43.98776 792.67 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 3.18051 43.98785 792.80 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 3.18062 43.98777 792.54 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 3.18072 43.98769 792.60 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 3.18057 43.98754 792.66 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 3.18071 43.98748 793.12 0
+# END dsf2stg

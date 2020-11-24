@@ -1,3 +1,10 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml 1.54 48.8741667 58.03 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 1.6561111 48.7841667 129.94 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 1.7033333 48.7991667 180.36 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars10.ac 1.54140 48.76684 0.00 57.6
+OBJECT_SHARED Models/lib/cars10.ac 1.54106 48.76648 134.00 57.44
+OBJECT_SHARED Models/Misc/picnic_table.ac 1.54167 48.76711 134.28 239.3
+# END dsf2stg

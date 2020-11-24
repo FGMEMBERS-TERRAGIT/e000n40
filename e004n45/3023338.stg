@@ -1,2 +1,9 @@
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 4.5083333 45.6833333 813.12 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 4.5938889 45.6383333 882.31 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 4.69807 45.71123 0.00 82.83
+OBJECT_SHARED Models/lib/shed10x50.ac 4.69800 45.71084 312.96 82.83
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 4.69764 45.71140 313.31 172.83
+# END dsf2stg

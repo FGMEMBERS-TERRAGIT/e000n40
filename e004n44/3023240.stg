@@ -1,2 +1,9 @@
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 4.0447222 44.2027778 -199.93 180
 OBJECT_SHARED Models/Industrial/water-tower.ac 4.1938879 44.154176 212.31 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 4.01184 44.24542 0.00 354.38
+OBJECT_SHARED Models/lib/deciduous-tree3.xml 4.01166 44.24535 499.65 307.03
+OBJECT_SHARED Models/Trees/billboard-tree.xml 4.01144 44.24535 497.89 289.34
+# END dsf2stg

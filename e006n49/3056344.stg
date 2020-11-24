@@ -10,3 +10,10 @@ OBJECT_SHARED Models/Power/reacteurPal.ac 6.21495 49.41227 180.75 245
 OBJECT_SHARED Models/Power/reacteurPal.ac 6.21596 49.41362 177.78 245
 OBJECT_SHARED Models/Power/reacteurPal.ac 6.22025 49.4169 181.49 213
 OBJECT_SHARED Models/Power/reacteurPal.ac 6.22215 49.41772 184.04 213
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac 6.13147 49.44868 0.00 264.776
+OBJECT_SHARED Models/lib/cars10.ac 6.12544 49.44787 231.84 334.942
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml 6.12642 49.43880 221.09 0
+# END dsf2stg

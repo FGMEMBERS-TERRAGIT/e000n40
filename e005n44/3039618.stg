@@ -1,1 +1,6 @@
 OBJECT_SHARED Models/Airport/ndb.ac 5.503472 44.050694 837.9 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars4.ac 5.63893 44.07369 0.00 351.36
+# END dsf2stg

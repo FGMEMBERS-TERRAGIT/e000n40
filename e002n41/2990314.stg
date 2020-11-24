@@ -1,1 +1,8 @@
 OBJECT_SHARED Models/Communications/VOR-DME_3.ac 2.634672 41.640031 400.87 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac 2.74618 41.68757 0.00 246
+OBJECT_SHARED Models/lib/SmHangar.ac 2.74593 41.68765 14.98 246.48
+OBJECT_SHARED Models/lib/LongRow.ac 2.74500 41.68796 15.03 335.252
+# END dsf2stg

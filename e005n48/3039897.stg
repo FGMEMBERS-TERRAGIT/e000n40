@@ -1,1 +1,6 @@
 OBJECT_SHARED Models/Communications/radome-8m.xml 5.39821 48.44905 418.95 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac 5.44556 48.45377 0.00 220
+# END dsf2stg

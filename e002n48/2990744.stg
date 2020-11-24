@@ -8,3 +8,9 @@ OBJECT_SHARED Models/Industrial/water-tower.ac 2.1416667 48.4361111 142.84 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 2.1675183 48.4998499 150.55 190.83
 OBJECT_SHARED Models/Power/windturbine_flash.xml 2.0255772 48.4016869 135.79 180
 OBJECT_SHARED Models/Power/windturbine_flash.xml 2.0409989 48.4115673 132.36 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial13x24.ac 2.08106 48.38048 0.00 215.1
+OBJECT_SHARED Models/lib/HorizTanks2.ac 2.07975 48.38059 145.07 33.69
+# END dsf2stg

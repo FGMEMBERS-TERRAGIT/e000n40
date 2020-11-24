@@ -1,1 +1,6 @@
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 2.0455556 42.4225 1630.05 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial13x24.ac 2.00637 42.44762 0.00 19.9
+# END dsf2stg

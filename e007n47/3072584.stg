@@ -11,3 +11,10 @@ OBJECT_SHARED Models/Power/windturbine_flash.xml 7.0643793 47.198359 1246.93 180
 OBJECT_SHARED Models/Power/windturbine_flash.xml 7.0744394 47.2014229 1226.07 180
 OBJECT_STATIC ant_chasseral.xml 7.060264 47.133014 1594.15 92
 OBJECT_STATIC hotel_chasseral.ac 7.0456 47.1268 1540.95 300
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac 7.09060 47.18382 0.00 112.75
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 7.08914 47.18366 683.77 205.019
+OBJECT_SHARED Models/lib/SmHangar.ac 7.08985 47.18371 685.23 117.757
+# END dsf2stg

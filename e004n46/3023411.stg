@@ -11,3 +11,11 @@ OBJECT_SHARED Models/Airport/Hangar_25_20.ac 4.82707 46.8277 185.11 33
 OBJECT_SHARED Models/Airport/hangcyl30x18.ac 4.8269 46.82548 183.81 123
 OBJECT_SHARED Models/Airport/hang42x29m.ac 4.828 46.8266 184.45 33
 OBJECT_SHARED Models/Airport/TourChalles.ac 4.8274 46.8268 184.45 303
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars10.ac 4.82769 46.82735 0.00 301.65
+OBJECT_SHARED Models/lib/cars10.ac 4.82770 46.82704 185.18 121.65
+OBJECT_SHARED Models/lib/cars10.ac 4.82748 46.82729 184.60 121.65
+OBJECT_SHARED Models/lib/cars10.ac 4.82747 46.82759 185.40 301.65
+# END dsf2stg

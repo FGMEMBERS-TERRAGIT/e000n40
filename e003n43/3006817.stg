@@ -17,3 +17,8 @@ OBJECT_SHARED Models/Airport/TOOLHOUSE.ac 3.41084032 43.50371173 95.05 204
 OBJECT_SHARED Models/Airport/hangar5.xml 3.41142169 43.50358028 94.49 252
 OBJECT_SHARED Models/Aircraft/Cessna172_blue.xml 3.41134315 43.50379851 94.59 160
 OBJECT_SHARED Models/Aircraft/ask21-blue.xml 3.41180231 43.50368952 94.29 68
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed10x50.ac 3.41177 43.50343 0.00 162.05
+# END dsf2stg

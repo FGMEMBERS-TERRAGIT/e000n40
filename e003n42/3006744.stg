@@ -86,3 +86,8 @@ OBJECT_SHARED Models/Sport/SwimmingPool.xml 3.160704 42.4099592 22.03 0
 OBJECT_SHARED Models/Sport/SwimmingPool.xml 3.1611733 42.4105575 12.6 0
 OBJECT_SHARED Models/Sport/SwimmingPool.xml 3.161459 42.4112827 12.41 0
 OBJECT_SHARED Models/Sport/SwimmingPool.xml 3.1635198 42.4128473 33.78 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac 3.16128 42.45818 0.00 90
+# END dsf2stg

@@ -54,3 +54,8 @@ OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 6.699407 43.267347 -0.13 0
 OBJECT_SHARED Models/Maritime/Civilian/SailBoat_38feet.xml 6.672134 43.318684 -0.03 25
 OBJECT_SHARED Models/Maritime/Civilian/SailBoat_38feet.xml 6.733932 43.361007 -0.4 167
 OBJECT_SHARED Models/Maritime/Civilian/fishboat1.ac 6.617374 43.286203 -0.14 137
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 6.61858 43.27860 0.00 20.87
+# END dsf2stg
